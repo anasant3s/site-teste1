@@ -271,6 +271,12 @@ h6 {
   color: var(--contrast-color);
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
 }
+/*logo de inicio */
+.logoHome{
+  display: flex;
+  max-height: 80px;
+  margin-right: 80px;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
